@@ -1,5 +1,12 @@
 # Detailed Story of [Andrew_Lee] (https://github.com/Andrew-Anti-Cheat-Specialist)
 ## Table of Contents
+
+~25.03.09 내용 및 이미지 파일 수정 예정.
+
+
+
+
+
   * [**1. Outline**](#1-outline)
     + [1.1. Profile](#11-profile)
     + [1.2. Educations](#12-educations)
