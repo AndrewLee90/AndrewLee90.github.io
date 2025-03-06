@@ -1,6 +1,6 @@
 # 📜 이성훈 포트폴리오
 
-> 김동우(Dongwoo Kim) - kimphysicsman 포트폴리오
+> 이성훈 (Andrew Lee) - Andrew-Anti-Cheat-Specialist 포트폴리오
 
 <br />
 
