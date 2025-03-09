@@ -43,7 +43,7 @@
 
 ### 0. 파이썬 기초문법 <a id="project0"></a>
 - **설명**: 파이썬의 기본 문법을 학습하는 프로젝트
-- **링크**: [GitHub 링크](https://naver.com](https://github.com/AndrewLee90/Python-Code/blob/main/0.%20Python%20%EA%B8%B0%EC%B4%88%20%EB%AC%B8%EB%B2%95)
+- **링크**: [GitHub 링크](https://github.com/AndrewLee90/Python-Code/blob/main/0.%20Python%20%EA%B8%B0%EC%B4%88%20%EB%AC%B8%EB%B2%95)
 ---
 
 ### 1. 숫자맞추기 게임 <a id="project1"></a>
