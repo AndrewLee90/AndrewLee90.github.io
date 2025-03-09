@@ -48,7 +48,7 @@
 
 ### 1. 숫자맞추기 게임 <a id="project1"></a>
 - **설명**: 랜덤 숫자를 맞추는 간단한 콘솔 게임  
-- **링크**: [GitHub 링크](https://naver.com)
+- **링크**: [GitHub 링크](https://github.com/AndrewLee90/Python-Code/blob/main/1.%20%EC%88%AB%EC%9E%90%EB%A7%9E%EC%B6%94%EA%B8%B0%20%EA%B2%8C%EC%9E%84)
 
 ---
 
