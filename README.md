@@ -3,7 +3,7 @@
 # 포트폴리오
 ![프로필 사진](https://github.com/AndrewLee90/AndrewLee90.github.io/blob/main/%EC%9D%B4%EC%84%B1%ED%9B%88.jpg)
 
-안녕하세요. 저는 게임에 대한 열정과 공정성을 지키려는 강한 신념을 가진 게이머입니다.  
+안녕하세요. 저는 게임에 대한 열정과 공정성을 지키려는 강한 신념을 가진 코어게이머입니다.  
 게임의 재미와 균형을 깨뜨리는 치팅은 절대 용납할 수 없다고 생각하며,  
 그런 문제를 해결하기 위해 정보보안 분야에 뛰어들게 되었습니다.
 
@@ -92,17 +92,13 @@
 
 ---
 
-🎯 아바 온라인 (AVA): XXXX시간 플레이 전략적 팀워크와 빠른 결정이 필요한 FPS, 
-최고의 승리 경험과 치열한 경쟁을 추구합니다.
+🎯 아바 온라인 (AVA): 2000시간 플레이, 3개의 병과별 전략, 팀워크와 빠른 판단이 필요한 FPS.
 
-🌀 리그 오브 레전드 (League of Legends): XXXX시간 플레이 팀 기반의 MOBA에서 
-끊임없는 도전과 기술 향상을 통해 승리의 쾌감을 맛보았습니다.
+🌀 리그 오브 레전드 (League of Legends): 드레이븐 숙련도 130만점, 갱플랭크 숙련도 100만점
 
-🚩 레인보우 식스 시즈 (Rainbow Six Siege): XXXX시간 플레이 전술적 FPS의 진수를 경험하며, 
-각 라운드마다 신중하고 치밀한 플레이를 전개합니다.
+🚩 레인보우 식스 시즈 (Rainbow Six Siege): 2000시간 플레이, 정통 하드코어 FPS, HB 전문
 
-🌌 이스케이프 프롬 타르코프 (Escape from Tarkov): XXXX시간 플레이 고난도의 생존 슈팅 게임에서 
-정확성과 생존력을 테스트하며 실력을 단련합니다.
+🌌 이스케이프 프롬 타르코프 (Escape from Tarkov): 2500시간 플레이 하드코어 생존 FPS, 카파컨테이너 2시즌
 
 ---
 
@@ -119,9 +115,15 @@ Anti-Cheat Engineer로서, 게임 생태계를 보호하고 열정을 담은 게
 
 이메일: only4clovers@naver.com
 
-전화번호: 010-0000-0000
+전화번호: 010-3827-0294
 
-기술 스택: 🐍 Python, 🕹️ Unreal Engine
+기술 스택 :
+🐍 Python (FastAPI, asyncio, pydantic, logging)
+🧠 AI 연동: Clova X, LLaMA
+🗂️ 압축/보안 분석: py7zr, rarfile, zipfile, VirusTotal API
+🐳 Infra: Docker, Uvicorn, Gunicorn, dotenv
+🔐 API 설계: Bearer Auth, Swagger, Router 구조화
+🎮 Game Security: Unreal Engine 기반 ESP 로직 및 Anti-Cheat 시스템 기획중..
 
 관심 분야: 게임 보안 🔐, 안티치트 🚫
 
@@ -130,8 +132,12 @@ Anti-Cheat Engineer로서, 게임 생태계를 보호하고 열정을 담은 게
 🚀 프로젝트
 다양한 프로젝트와 함께 게임 보안 및 기술 능력을 확장 중입니다! (세부 프로젝트 목록은 아래를 참고하세요.)
 
-### 프로젝트 목록
-- [0. 파이썬 기초문법](#project0)
+### 팀 프로젝트 목록
+- [1. Project Zip Sentinel
+  Report : https://www.notion.so/Zip-Sentinel-1ed39b99445580f69a09ef65a6d366f3
+  Github : https://github.com/AndrewLee90/Zip_Sentinel_4.0
+
+### 미니 프로젝트 목록
 - [1. 숫자맞추기 게임](#project1)
 - [2. 컴퓨터 IP확인](#project2)
 - [3. 텍스트 음성 변환](#project3)
@@ -161,12 +167,13 @@ Anti-Cheat Engineer로서, 게임 생태계를 보호하고 열정을 담은 게
 
 ---
 
-## 프로젝트 세부 설명
+## 팀 프로젝트 세부 설명
 
-### 0. 파이썬 기초문법 <a id="project0"></a>
-- **설명**: 파이썬의 기본 문법을 학습하는 프로젝트
-- **링크**: [GitHub 링크](https://github.com/AndrewLee90/Python-Code/blob/main/0.%20Python%20%EA%B8%B0%EC%B4%88%20%EB%AC%B8%EB%B2%95)
----
+### 1. Project Zip Sentinel
+- **설명**: 비밀번호로 보호된 압축파일의 보안 위협을 AI 기반으로 자동 분석하여, 웹 콘텐츠의 안전성을 실시간으로 판별하는 지능형 보안 게이트웨이 시스템입니다
+- **링크**: [GitHub 링크]((https://github.com/AndrewLee90/Zip_Sentinel_4.0)
+
+## 미니 프로젝트 세부 설명
 
 ### 1. 숫자맞추기 게임 <a id="project1"></a>
 - **설명**: 랜덤 숫자를 맞추는 간단한 콘솔 게임  
