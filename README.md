@@ -135,7 +135,7 @@ Anti-Cheat Engineer로서, 게임 생태계를 보호하고 열정을 담은 게
 
 ### 팀 프로젝트 목록
 - [1. Project Zip Sentinel
-- Report : https://www.notion.so/Zip-Sentinel-1ed39b99445580f69a09ef65a6d366f3
+- Report : [https://www.notion.so/Zip-Sentinel-1ed39b99445580f69a09ef65a6d366f3](https://www.notion.so/Zip-Sentinel-1ed39b99445580f69a09ef65a6d366f3?source=copy_link)
 - Github : https://github.com/AndrewLee90/Zip_Sentinel_4.0
 
 ### 미니 프로젝트 목록
