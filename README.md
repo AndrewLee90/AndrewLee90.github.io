@@ -117,13 +117,14 @@ Anti-Cheat Engineer로서, 게임 생태계를 보호하고 열정을 담은 게
 
 전화번호: 010-3827-0294
 
-기술 스택 :
-🐍 Python (FastAPI, asyncio, pydantic, logging)
-🧠 AI 연동: Clova X, LLaMA
-🗂️ 압축/보안 분석: py7zr, rarfile, zipfile, VirusTotal API
-🐳 Infra: Docker, Uvicorn, Gunicorn, dotenv
-🔐 API 설계: Bearer Auth, Swagger, Router 구조화
-🎮 Game Security: Unreal Engine 기반 ESP 로직 및 Anti-Cheat 시스템 기획중..
+🛠 기술 스택
+
+- 🐍 **Python**: FastAPI, asyncio, pydantic, logging  
+- 🧠 **AI 연동**: Clova X, LLaMA (OpenAI / Local LLM)  
+- 🗂️ **압축/보안 분석**: py7zr, rarfile, zipfile, VirusTotal API  
+- 🐳 **Infra**: Docker, Uvicorn, Gunicorn, dotenv  
+- 🔐 **API 설계**: Bearer Auth, Swagger, Router 구조화  
+- 🎮 **Game Security**: Unreal Engine 기반 ESP 로직 및 Anti-Cheat 시스템 기획
 
 관심 분야: 게임 보안 🔐, 안티치트 🚫
 
