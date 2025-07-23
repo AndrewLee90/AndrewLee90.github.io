@@ -169,7 +169,7 @@ Anti-Cheat Engineer로서, 게임 생태계를 보호하고 열정을 담은 게
 - Github : https://github.com/AndrewLee90/Zip_Sentinel_4.0
 
 ### 언리얼엔진 영상 렌더링
-- URL : 
+- URL : http://youtube.com/watch?v=v6AGUpFW04s&ab_channel=AndrewLee
 
 ### 미니 프로젝트 목록
 - [1. 숫자맞추기 게임](#project1)
