@@ -171,6 +171,9 @@ Anti-Cheat Engineer로서, 게임 생태계를 보호하고 열정을 담은 게
 ### 언리얼엔진 영상 렌더링
 - URL : http://youtube.com/watch?v=v6AGUpFW04s&ab_channel=AndrewLee
 
+### Open Source FPS, Assault Cube를 활용한 공격기법 및 방어기법 연구
+- https://github.com/AndrewLee90/assault_cube_reverse_engineer/tree/main
+
 ### 미니 프로젝트 목록
 - [1. 숫자맞추기 게임](#project1)
 - [2. 컴퓨터 IP확인](#project2)
