@@ -147,43 +147,43 @@ Anti-Cheat Engineer로서, 게임 생태계를 보호하고 열정을 담은 게
 
 전화번호: 010-3827-0294
 
-🛠 기술 스택
 
-기술 스택 (Tech Stack)
+🛠 기술 스택 (Tech Stack)
 
-개발 언어 및 백엔드 (Language & Backend)
-├─ Python (3.10~3.13) : 보안 자동화, 스크립트 작성
-├─ C / C++ : 기본 문법 및 시스템 프로그래밍 학습 중
-├─ FastAPI : RESTful API 서버 개발 및 Swagger 문서화
-└─ Bash : 기본 자동화 스크립트 작성
+💻 개발 언어 및 백엔드 (Language & Backend)
+- Python (3.10~3.13) : 보안 자동화, 스크립트 작성
+- C / C++ : 기본 문법 및 시스템 프로그래밍 학습 중
+- FastAPI : RESTful API 서버 개발 및 Swagger 문서화
+- Bash : 기본 자동화 스크립트 작성
 
-리버스 엔지니어링 및 디버깅 (Reverse Engineering & Debugging)
-├─ gdb : C/C++ 기반 어플리케이션 디버깅
-├─ x64dbg : Windows 기반 프로그램 동적 분석
-├─ IDA Pro : 어셈블리 코드 분석 및 정적 분석
-└─ Cheat Engine : 메모리 스캔 및 변조, 게임 로직 분석
+🔍 리버스 엔지니어링 및 디버깅 (Reverse Engineering & Debugging)
+- gdb : C/C++ 기반 어플리케이션 디버깅
+- x64dbg : Windows 기반 프로그램 동적 분석
+- IDA Pro : 어셈블리 코드 분석 및 정적 분석
+- Cheat Engine : 메모리 스캔 및 변조, 게임 로직 분석
 
-AI 및 추론 엔진 (AI & Inference Engine)
-├─ ClovaX : 문맥 기반 압축파일 비밀번호 추론
-└─ LLaMA : 로컬 기반 LLM 테스트 및 비교 분석
+🧠 AI 및 추론 엔진 (AI & Inference Engine)
+- ClovaX : 문맥 기반 압축파일 비밀번호 추론
+- LLaMA : 로컬 기반 LLM 테스트 및 비교 분석
 
-보안 분석 및 자동화 (Security Analysis & Automation)
-├─ py7zr, rarfile, etc. : 압축 해제 자동화 및 다단계 분할 대응
-├─ VirusTotal API : 해시 기반 악성코드 분석 및 위험도 등급화
-└─ ZIPSentinel : 자동 분석 및 게시글 차단 게이트웨이 개발 프로젝트
+🔐 보안 분석 및 자동화 (Security Analysis & Automation)
+- py7zr, rarfile, etc. : 압축 해제 자동화 및 다단계 분할 대응
+- VirusTotal API : 해시 기반 악성코드 분석 및 위험도 등급화
+- ZIPSentinel : 자동 분석 및 게시글 차단 게이트웨이 개발 프로젝트
 
-인프라 및 협업 (Infrastructure & Collaboration)
-├─ OS (Linux) : Ubuntu 22.04, Rocky Linux 서버 운영 경험
-├─ Docker : Ubuntu 22.04 기반 서버 환경 설정 및 배포
-├─ Cloud : Naver Cloud (NCP) 인프라 설정 관리 및 배포
-├─ Git / GitHub : 코드 버전 관리 및 이슈 기반 협업
-└─ Notion / Blog : 기술 기록 및 회고 기반 문서화
+🧱 인프라 및 협업 (Infrastructure & Collaboration)
+- OS (Linux) : Ubuntu 22.04, Rocky Linux 서버 운영 경험
+- Docker : Ubuntu 22.04 기반 서버 환경 설정 및 배포
+- Cloud : Naver Cloud (NCP) 인프라 설정 관리 및 배포
+- Git / GitHub : 코드 버전 관리 및 이슈 기반 협업
+- Notion / Blog : 기술 기록 및 회고 기반 문서화
 
-기타 (ETC)
-├─ Office Automation : Word / Excel / PPT 활용 능력 중급 이상
-├─ Unreal Engine 5 : 간단한 더미 맵 제작 및 블루프린트 구조 이해
-├─ Sony Vegas : 영상 편집 중급
-└─ DaVinci Resolve : 영상 편집 중급
+🎨 기타 (ETC)
+- Office Automation : Word / Excel / PPT 활용 능력 중급 이상
+- Unreal Engine 5 : 간단한 더미 맵 제작 및 블루프린트 구조 이해
+- Sony Vegas : 영상 편집 중급
+- DaVinci Resolve : 영상 편집 중급
+
 
 관심 분야: 게임 보안 , 안티치트 솔루션 
 
